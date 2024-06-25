@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c71c1b5-bea2-4dcc-a6fb-387ad2532bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/amazonPriceTracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="5c71c1b5-bea2-4dcc-a6fb-387ad2532bdd" name="Changes" comment="adding and initialising beatiful soup for the web scraping.&#10;send a request to get the html from the page of the amazon product and parse the html with beautiful soup to get the price of the product.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +56,19 @@
       <option name="presentableId" value="Default" />
       <updated>1719339936274</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="adding and initialising beatiful soup for the web scraping.&#10;send a request to get the html from the page of the amazon product and parse the html with beautiful soup to get the price of the product.">
+      <option name="closed" value="true" />
+      <created>1719341487805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1719341487805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding and initialising beatiful soup for the web scraping.&#10;send a request to get the html from the page of the amazon product and parse the html with beautiful soup to get the price of the product." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding and initialising beatiful soup for the web scraping.&#10;send a request to get the html from the page of the amazon product and parse the html with beautiful soup to get the price of the product." />
   </component>
 </project>
